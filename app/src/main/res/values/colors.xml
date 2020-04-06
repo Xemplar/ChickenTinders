@@ -15,4 +15,8 @@
     <color name="int_orange">#F09819</color>
     <color name="int_blue">#38B8F2</color>
     <color name="int_white">#f5f5f5</color>
+
+    <color name="market_up">#7ED321</color>
+    <color name="market_down">#DC2E44</color>
+    <color name="transparent">#00FFFFFF</color>
 </resources>
